@@ -1,0 +1,12 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+README.html
+release-log.txt
+bin/findsimilars
+lib/File/FindSimilars.pm
+t/00-load.t
+t/pod.t
+test.pl
+test.tgz
